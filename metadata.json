@@ -1,0 +1,6 @@
+{
+  "name": "ગુજરાત આરોગ્ય કેન્દ્ર",
+  "description": "Futuristic Gujarati Health App - ગુજરાત આરોગ્ય કેન્દ્ર featuring 3D Digital Twin, Health SOS, Gujarati Voice Assistant, Health Records and Habit Trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
